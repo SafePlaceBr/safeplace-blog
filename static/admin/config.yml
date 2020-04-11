@@ -1,6 +1,7 @@
 # See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
 backend:
-  name: git-gateway
+  name: github
+  repo: SafePlaceBr/safeplace-blog
   branch: master # Branch to update (optional; defaults to master)
 
 # display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
