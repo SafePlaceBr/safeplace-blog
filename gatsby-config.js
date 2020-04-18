@@ -17,6 +17,14 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Source Serif Pro']
+        }
+      }
+    },
+    {
       resolve: 'gatsby-plugin-offline',
       options: {
         runtimeCaching: [
