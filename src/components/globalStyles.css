@@ -1,11 +1,12 @@
 :root {
-  --primary: #00c2bd;
-  --secondary: #000;
+  --primary: #C1272D;
+  --secondary: #000000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
   --darkGrey: #272727;
   --danger: #ff3d3d;
-  --font-primary: 'Open Sans', sans-serif;
+  --font-primary: 'Source Serif Pro';
+  --font-secondary: 'Open Sans', sans-serif;
   --font-system: system-ui; /* postcssPresetEnv */
   --borderRadius: 3px;
 }
@@ -23,7 +24,7 @@
 }
 
 ::selection {
-  background: rgba(0, 194, 189, 0.6);
+  background: rgba(193, 39, 45, 0.6);
 }
 
 html {

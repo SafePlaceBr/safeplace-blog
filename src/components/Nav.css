@@ -103,6 +103,11 @@
   width: 15rem;
 }
 
+.Nav-Logo {
+  text-decoration: none;
+  margin-right: 4rem;
+}
+
 @media (max-width: 600px) {
   .Nav--Container {
     display: flex;
