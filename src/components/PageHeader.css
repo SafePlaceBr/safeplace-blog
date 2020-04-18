@@ -2,6 +2,7 @@
   background-color: var(--darkGrey);
   color: white;
   padding: 15rem 0;
+  text-align: center;
 }
 
 .PageHeader .BackgroundImage {
@@ -15,6 +16,7 @@
 .PageHeader--Title {
   font-size: 6rem;
   margin-bottom: 0;
+  font-family: 'Source Serif Pro', sans-serif;
 }
 
 .PageHeader--Subtitle {
@@ -25,6 +27,13 @@
 .PageHeader .container {
   animation: fadeIn 0.5s ease-out;
 }
+.header-box{
+  width: 25%;
+  justify-self: left;
+  border: 4px solid white;
+  padding: 3rem;
+  margin-left: 10rem;
+}
 
 @media (max-width: 600px) {
   .PageHeader {
@@ -32,5 +41,12 @@
   }
   .PageHeader-large {
     padding: 12.5rem 0;
+  }
+  .PageHeader--Title {
+    font-size: 3rem;
+  }
+  .header-box{
+    margin: 0 auto;
+    width: 50%;
   }
 }
