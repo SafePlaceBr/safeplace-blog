@@ -1,11 +1,11 @@
 ---
 template: BlogIndex
 slug: blog
-title: SafePlace
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: Blog
+featuredImage: 'https://ucarecdn.com/88d1f71a-ff66-4d51-b078-e59519fa9b0e/'
+subtitle: Subtítulo do Blog
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: Blog da SafePlace
+  title: Blog
 ---
 
