@@ -1,0 +1,28 @@
+.home{
+  text-align: center;
+  margin: 0 auto;
+  padding: 8rem;
+}
+
+.logo{
+  display: flex;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 20rem;
+  width: 20rem;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.home-title{
+  font-size: 8rem;
+  font-family: 'Source Serif Pro', sans-serif;
+  font-weight: 400;
+}
+
+.home-subtitle{
+  font-size: 2rem;
+  color: var(--primary);
+}
