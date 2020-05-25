@@ -10,7 +10,7 @@ import Layout from '../components/Layout'
 import './ContactPage.css'
 
 // Export Template for use in CMS preview
-export const ContactPageTemplate = ({
+export const ContatoPageTemplate = ({
   body,
   title,
   subtitle,
@@ -66,19 +66,19 @@ export const ContactPageTemplate = ({
   </main>
 )
 
-const ContactPage = ({ data: { page } }) => (
+const ContatoPage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <ContactPageTemplate {...page.frontmatter} body={page.html} />
+    <ContatoPageTemplate {...page.frontmatter} body={page.html} />
   </Layout>
 )
 
-export default ContactPage
+export default ContatoPage
 
 export const pageQuery = graphql`
-  query ContactPage($id: String!) {
+  query ContatoPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       html
