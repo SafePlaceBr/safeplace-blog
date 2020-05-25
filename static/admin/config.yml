@@ -22,17 +22,17 @@ collections: # A list of collections the CMS should be able to edit
     editor:
       preview: true
     files:
-      - file: 'content/pages/contact.md'
-        label: 'Contact Page'
-        name: 'contact-page'
+      - file: 'content/pages/contato.md'
+        label: 'Contato Page'
+        name: 'contato-page'
         fields:
           - {
               label: Template,
               name: template,
               widget: hidden,
-              default: ContactPage,
+              default: ContatoPage,
             }
-          - { label: Slug, name: slug, widget: hidden, default: 'contact' }
+          - { label: Slug, name: slug, widget: hidden, default: 'contato' }
           - { label: Title, name: title, widget: string }
           - {
               label: Featured Image,
