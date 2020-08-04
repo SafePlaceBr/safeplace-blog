@@ -3,20 +3,8 @@ template: SobrePage
 slug: sobre
 title: Sobre
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
-subtitle: This is the components page subtitle.
-section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-
-
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
+subtitle: Quem nós somos
+section1: "## Nosso manifesto\n\nEu queria dizer que essa dor vai passar. Não posso garantir. Queria dizer que nunca mais vai se repetir. Também não posso garantir. \r\n\nMas eu estou aqui. Estou aqui para ser seu apoio. Seu suporte. Sua força para os dias difíceis. \r\n\nEstou aqui porque eu sei o poder de uma rede. Sei o poder do feminino e tudo o que podemos fazer juntas. \r\n\nEu nasci pra acolher. Pra unir. Pra falar e ouvir. Eu nasci porque não é fácil ser e renascer quando está tudo quebrado, quando o medo toma conta. \r\n\nSou a SafePlace. Um lugar de segurança. Para você contar suas histórias. Ouvir nossas histórias. Para você sentir que é possível ser diferente. É possível lutar. E que você é incrível, independente do que te fizeram acreditar. \r\n\nEu queria poder mudar o passado. Mas eu não posso. Então eu olho para o futuro. Eu te vejo no presente. Eu te sinto potente. Entendendo que não vai ser fácil, mas que você pode seguir em frente. Podemos fazer diferente. \r\n\nEu seguro a sua mão. Me abro, te acolho. Pode entrar. A SafePlace é pra você."
 section2: |-
   ## You can use videos, images and text.
 
