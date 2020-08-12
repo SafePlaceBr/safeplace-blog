@@ -56,11 +56,13 @@ export const SobrePageTemplate = ({
       </section>
     )}
 
-    <section className="section">
-      <div className="container">
-        <Accordion items={accordion} />
-      </div>
-    </section>
+    {accordion && (
+      <section className="section">
+        <div className="container">
+          <Accordion items={accordion} />
+        </div>
+      </section>
+    )}
 
     <section className="section">
       <div className="container">
@@ -99,10 +101,6 @@ export const pageQuery = graphql`
         video
         videoPoster
         videoTitle
-        accordion {
-          title
-          description
-        }
       }
     }
   }
