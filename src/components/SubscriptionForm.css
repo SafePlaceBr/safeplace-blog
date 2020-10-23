@@ -1,0 +1,59 @@
+.EmailListForm {
+  display: flex;
+  flex-direction: column;
+
+  background: #ece8e8;
+  color: #2a2a2a;
+  
+  padding: 2rem;
+  width:500px;
+  align-items: center;
+  margin: 0 auto;
+
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.Wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+input {
+  color: #2a2a2a;
+  width: 100%;
+  border: none;
+}
+
+button,
+input {
+  padding: 1rem 1.5rem;
+}
+
+button {
+  display: inline-block;
+
+  border: none;
+  background-image: none;
+  background-color: var(--primary);
+  color: white;
+
+  letter-spacing: 1px;
+  transition: all 0.1s linear;
+}
+button:hover {
+  cursor: pointer;
+  background: darken(#dd0505, 15%);
+}
+
+.errorMessage{
+  color: var(--primary);
+  font-size: 12px;
+}
+.successMessage{
+  color: #45B61E;
+  font-size: 12px;
+}

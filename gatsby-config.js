@@ -98,7 +98,15 @@ module.exports = {
               linkImagesToOriginal: false
             }
           },
-          `gatsby-remark-responsive-iframe`
+          `gatsby-remark-responsive-iframe`,
+          {
+            resolve: 'gatsby-plugin-mailchimp',
+            options: {
+              endpoint:
+                'https://gmail.us2.list-manage.com/subscribe/post?u=f403535bbed8fdb15506f9efe&amp;id=a866e9a20a',
+              timeout: 3500
+            }
+          }
         ]
       }
     },

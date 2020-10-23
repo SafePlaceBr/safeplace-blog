@@ -1,5 +1,6 @@
 import React from 'react'
 import './Home.css'
+import SubscriptionForm from './SubscriptionForm'
 
 const Home = () => (
   <div className="home">
@@ -13,6 +14,7 @@ const Home = () => (
     <p className="home-subtitle">
       Uma plataforma construída por mulheres e para mulheres
     </p>
+    <SubscriptionForm />
   </div>
 )
 
