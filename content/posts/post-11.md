@@ -10,6 +10,8 @@ excerpt: >-
   As lideranças precisam ser proativas na formação de uma cultura corporativa
   que não tolera o assédio ou outras práticas de discriminação no ambiente de
   trabalho.
+categories:
+  - category: Novas
 meta:
   description: test meta description
   title: test meta title
