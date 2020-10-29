@@ -1,13 +1,13 @@
 :root {
-  --primary: #C1272D;
+  --primary:#AD034D;
   --secondary: #000000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
   --darkGrey: #272727;
   --danger: #ff3d3d;
-  --font-primary: 'Source Serif Pro';
+  --font-primary: 'Lato', sans-serif;
   --font-secondary: 'Open Sans', sans-serif;
-  --font-system: system-ui; /* postcssPresetEnv */
+  --font-system: 'Lato', system-ui; /* postcssPresetEnv */
   --borderRadius: 3px;
 }
 

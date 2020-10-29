@@ -7,7 +7,7 @@ const Home = () => (
     <div
       className="logo"
       style={{
-        backgroundImage: `url(/images/logo.png)`
+        backgroundImage: `url(/images/logo.svg)`
       }}
     />
     <h1 className="home-title">Em Breve</h1>

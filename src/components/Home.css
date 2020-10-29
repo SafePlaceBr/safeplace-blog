@@ -2,6 +2,7 @@
   text-align: center;
   margin: 0 auto;
   padding: 8rem;
+  background-color: #F9F2F5;
 }
 
 .logo{
@@ -9,20 +10,21 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  height: 20rem;
-  width: 20rem;
+  height: 30rem;
+  width: 30rem;
   align-items: center;
   justify-content: center;
   margin: 0 auto;
 }
 
 .home-title{
-  font-size: 8rem;
-  font-family: 'Source Serif Pro', sans-serif;
+  font-size: 7rem;
+  font-family: 'Lato', sans-serif;
   font-weight: 400;
 }
 
 .home-subtitle{
   font-size: 2rem;
   color: var(--primary);
+  font-family: var(--font-primary)
 }

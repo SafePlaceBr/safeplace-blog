@@ -34,13 +34,14 @@ export const SobrePageTemplate = ({
         <Content source={section1} />
       </div>
     </section>
-
-    <section className="section">
-      <div className="container">
-        <h2>Our gallery component</h2>
-        <Gallery images={gallery} />
-      </div>
-    </section>
+    {gallery.length > 0 && (
+      <section className="section">
+        <div className="container">
+          <h2>Our gallery component</h2>
+          <Gallery images={gallery} />
+        </div>
+      </section>
+    )}
 
     <section className="section">
       <div className="container">
@@ -64,13 +65,13 @@ export const SobrePageTemplate = ({
       </section>
     )}
 
-    <section className="section">
+    {/* <section className="section">
       <div className="container">
         <Popup>
           <Content source={section1} />
         </Popup>
       </div>
-    </section>
+    </section> */}
   </main>
 )
 
