@@ -20,7 +20,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Source Serif Pro']
+          families: ['Source Serif Pro', 'Lato']
         }
       }
     },
