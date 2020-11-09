@@ -8,11 +8,7 @@ section1: >-
   ## Nosso manifesto
 
 
-  A SafePlace surgiu do incômodo, do inconformismo e do desejo de contribuir
-  para uma sociedade melhor.
-
-
-  Somos o sonho e ambição de um mundo onde nenhuma mulher fica para trás. 
+  Somos o sonho e ambição de um mundo onde nenhuma mulher fique para trás. 
 
 
   Eu queria dizer que essa dor vai passar. Não posso garantir. Queria dizer que
