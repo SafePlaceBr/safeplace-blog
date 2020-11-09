@@ -5,7 +5,7 @@ title: >-
   estratégia da sua organização
 status: Published
 date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/a7f36998-7a41-4a63-b0b1-91ef46cd638b/'
+featuredImage: 'https://ucarecdn.com/1ba0bc97-e382-4222-88e6-81ce516cbae5/'
 excerpt: >-
   As lideranças precisam ser proativas na formação de uma cultura corporativa
   que não tolera o assédio ou outras práticas de discriminação no ambiente de
