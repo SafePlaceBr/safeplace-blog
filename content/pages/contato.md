@@ -2,7 +2,7 @@
 template: ContatoPage
 slug: contato
 title: Contato
-featuredImage: 'https://ucarecdn.com/c7b02257-a298-475b-b1a8-a30c403ad293/'
+featuredImage: 'https://ucarecdn.com/c4fe306f-5f96-446d-89fd-9508345dd027/'
 subtitle: Fale com a gente
 address: ''
 phone: ''
