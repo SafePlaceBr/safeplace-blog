@@ -2,7 +2,7 @@
 template: SobrePage
 slug: sobre
 title: Sobre
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
+featuredImage: 'https://ucarecdn.com/21fe999c-261e-473d-9ed1-fbf750038028/'
 subtitle: Quem somos
 section1: >-
   ## Nosso manifesto
