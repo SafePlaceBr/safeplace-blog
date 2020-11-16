@@ -8,7 +8,7 @@ section1: >-
   ## Nosso manifesto
 
 
-  Somos o sonho e ambição de um mundo onde nenhuma mulher fique para trás. 
+  Somos o sonho e ambição de um lugar onde nenhuma mulher fica para trás. 
 
 
   Eu queria dizer que essa dor vai passar. Não posso garantir. Queria dizer que
