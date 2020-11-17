@@ -10,7 +10,6 @@ const Home = () => (
         backgroundImage: `url(/images/logo.svg)`
       }}
     />
-    <h1 className="home-title">Em Breve</h1>
     <p className="home-subtitle">
       Uma plataforma construída por mulheres e para mulheres
     </p>
