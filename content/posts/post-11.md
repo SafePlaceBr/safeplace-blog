@@ -28,8 +28,6 @@ A seguir, vamos abordar três iniciativas que contribuem para que a sua organiza
 
 Afinal, para que seja possível acabar com o assédio no trabalho, é necessário falar sobre o tema nos diversos níveis de uma organização, envolvendo, especialmente, ações estratégicas.
 
-
-
 **1. Crie espaços para orientações sobre o tema**
 
 Normalmente, as empresas possuem uma estrutura de monitoramento de riscos que é pouco ativa no que tange ao risco de cultura ocasionado pelo assédio moral e sexual.
@@ -52,8 +50,6 @@ O assédio sexual cometido no ambiente de trabalho é considerado falta grave e 
 
 Criar um ambiente seguro, onde os colaboradores tenham acesso às informações pertinentes de forma inclusiva e prática é fundamental para conscientização da gravidade, dos riscos e das penalidades previstas frente às condutas de assédio.
 
-
-
 **2. Atualize o Código de Ética da sua empresa**
 
 As lideranças, geralmente, concordam que, embora o assédio no local de trabalho seja um comportamento inaceitável por parte de um indivíduo, o silêncio resultante ou a falta de consequências para o comportamento reflete em danos culturais, além de despesas administrativas, aumento da rotatividade de pessoal e até mesmo ações indenizatórias.
@@ -65,8 +61,6 @@ Daí, a importância da organização evidenciar o seu posicionamento em relaç�
 O Código de Ética é um documento importante dentro de uma organização, é, geralmente, o documento onde o colaborador encontra, de forma consolidada, orientações sobre os seus direitos e deveres e, o posicionamento social adotado pela empresa.
 
 Portanto, o posicionamento da empresa através do Código de Ética é fundamental tanto para orientação em relação ao tema, quanto para trazer segurança ao colaborador, caso seja necessário realizar uma denúncia administrativa.
-
- 
 
 **3. Crie um canal administrativo para denúncia e investigação**
 
@@ -84,6 +78,6 @@ Por isso, a necessidade de que as empresas ofereçam um canal único para denún
 
 Estamos traçando um caminho de (re)evolução econômica, política e social no que tange à inclusão e acessibilidade de pessoas diversas ao mercado de trabalho e, sem dúvidas, a atuação ativa das nossas empresas e suas respectivas lideranças é um passo fundamental para mudança que tanto almejamos.
 
- 
-
 **Louize Pereira Oliveira**, advogada, fundadora da SafePlace Brasil.
+
+Artigo retirado do blog da Revista HSM Management. Confira na íntegra através do site: https://www.revistahsm.com.br/post/assedio-moral-e-sexual-no-trabalho-como-evita-los-na-sua-empresa
