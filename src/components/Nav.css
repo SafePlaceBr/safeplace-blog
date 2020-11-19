@@ -117,6 +117,7 @@
     display: block !important;
     margin-left: auto;
     z-index: 1;
+    color: #000000;
   }
   .Nav .Logo {
     z-index: 1;

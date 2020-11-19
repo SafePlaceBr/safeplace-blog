@@ -10,11 +10,12 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  height: 30rem;
-  width: 30rem;
+  height: 20rem;
+  width: 50rem;
   align-items: center;
   justify-content: center;
   margin: 0 auto;
+  max-width: 100%;
 }
 
 .home-title{
@@ -27,4 +28,10 @@
   font-size: 2rem;
   color: var(--primary);
   font-family: var(--font-primary)
+}
+
+@media (max-width: 800px) {
+  .home{
+    padding: 2rem;
+  }
 }
