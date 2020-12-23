@@ -1,8 +1,6 @@
 ---
 template: SinglePost
-title: >-
-  Assédio moral e sexual no trabalho: três iniciativas que devem aparecer na
-  estratégia da sua organização
+title: 'Assédio moral e sexual no trabalho: como evitá-los na sua empresa'
 status: Published
 date: '2018-05-25'
 featuredImage: 'https://ucarecdn.com/de42752d-fde5-4c2a-a962-6b2d66dafd42/'
