@@ -2,7 +2,8 @@
 template: SinglePost
 title: 'Faça, não espere acontecer'
 status: Published
-date: 2021-02-05T15:17:52.142Z
+date: 2020-11-28T15:17:52.142Z
+featuredImage: 'https://ucarecdn.com/93a15ff1-3827-4dcd-bf87-4a28a0e254db/'
 excerpt: O mundo é desigual e você não está no centro dele
 ---
 Você não tem culpa por seus privilégios ou pela falta deles.
