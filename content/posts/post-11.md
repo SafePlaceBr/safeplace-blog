@@ -2,14 +2,13 @@
 template: SinglePost
 title: 'Assédio moral e sexual no trabalho: como evitá-los na sua empresa'
 status: Published
-date: '2018-05-25'
+date: 2020-11-03T03:00:00.000Z
 featuredImage: 'https://ucarecdn.com/de42752d-fde5-4c2a-a962-6b2d66dafd42/'
 excerpt: >-
   As lideranças precisam ser proativas na formação de uma cultura corporativa
   que não tolera o assédio ou outras práticas de discriminação no ambiente de
   trabalho.
-categories:
-  - category: Novas
+categories: []
 meta:
   description: test meta description
   title: test meta title
