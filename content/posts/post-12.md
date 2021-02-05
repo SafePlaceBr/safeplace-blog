@@ -13,8 +13,6 @@ meta:
 ---
 A cada dois minutos, cinco mulheres são espancadas no Brasil. Em 80% dos casos, o responsável pela agressão é o próprio parceiro (marido, namorado ou ex) com quem convive diariamente, segundo a pesquisa Mulheres Brasileiras nos Espaços Público e Privado (FPA/SESC, 2010).
 
-
-
 Estes dados, por mais alarmantes que sejam, podem aumentar e devem causar mais preocupação durante o período de quarentena. Somente no Rio de Janeiro houve um aumento de 50% de casos de violência doméstica durante este período de confinamento, mostrando que esse tema não pode ser ignorado pelos governos e empresas.
 
 **TIPOS DE VIOLÊNCIA CONTRA A MULHER**
@@ -43,17 +41,17 @@ De acordo com os dados da ONU, 14 dos 25 países com as taxas mais altas de femi
 
 No Mapa da Violência de Gênero fica evidente como a perspectiva de gênero (e raça) sobre os dados mostram que mulheres e homens são afetados de maneiras diferentes pela violência no país. A frequência tão acentuada de violência contra mulher na sociedade brasileira também é reflexo da falta de políticas públicas capazes de encarar e prevenir a violência. 
 
-Os governos em seus diferentes setores (Federais, Estaduais e Municipais), Organizações do Terceiro Setor (ONGs) e empresas precisam se envolver com essa pauta, tão fundamental para a qualidade de vida, principalmente das mulheres, que perdem seus direitos básicos.
+Os governos em seus diferentes setores (Federais, Estaduais e Municipais), Organizações do Terceiro Setor (ONGs) e empresas precisam se envolver com essa pauta, tão fundamental para a qualidade de vida, principalmente das mulheres, que perdem seus direitos básicos.
 
 Mulheres, na maioria das vezes, crescem em um meio social inseguro, onde são impostas a padrões de uma sociedade que estruturalmente legitima as agressões e colocam a culpa nas próprias vítimas.
 
-**VIOLÊNCIA DOMÉSTICA CONTRA MULHER**
+**VIOLÊNCIA DOMÉSTICA CONTRA MULHER**
 
-O retrato da violência contra mulher na zona urbana ecoa em vários ambientes sociais, inclusive nos lugares considerados de proteção e cuidado, como o próprio lar. Na maioria das vezes as agressões são feitas pelo próprio companheiro. 
+O retrato da violência contra mulher na zona urbana ecoa em vários ambientes sociais, inclusive nos lugares considerados de proteção e cuidado, como o próprio lar. Na maioria das vezes as agressões são feitas pelo próprio companheiro. 
 
 Normalmente, a mulher que passa por uma situação de violência doméstica tem principalmente dependência financeira e emocional, que colabora para que a mesma não denuncie e continue neste ciclo de violências, ocasionando sequelas na saúde física e mental. Especialistas afirmam que os números, por mais absurdos que sejam, só representam cerca de 10% a 15% do total de casos de violência. 
 
-Em matéria para a BBC, Silvia Chakian (promotora de Justiça do Ministério Público de São Paulo e integrante do GEVID – Grupo de Atuação Especial de Enfrentamento à Violência Doméstica), destaca alguns dos motivos que fazem com que as mulheres tenham receio de reportar um caso de violência:
+Em matéria para a BBC, Silvia Chakian (promotora de Justiça do Ministério Público de São Paulo e integrante do GEVID – Grupo de Atuação Especial de Enfrentamento à Violência Doméstica), destaca alguns dos motivos que fazem com que as mulheres tenham receio de reportar um caso de violência:
 
 * Vítimas não identificam o que sofreram como assédio, naturalizando a situação
 * Medo de que ninguém acredite nelas
@@ -98,6 +96,4 @@ Outra empresa que lançou, por meio do seu grupo de afinidade de gênero, uma ca
 
 Essas organizações mostram que podemos ir muito além do discurso e, de fato, fazer a diferença na vida de centenas de pessoas.
 
-
-
-Artigo retirado do blog da Blend Edu. Confira na íntegra através do site: https://www.blend-edu.com/
+Artigo retirado do blog da Blend Edu. Acesse em: https://www.blend-edu.com/
