@@ -78,4 +78,4 @@ Estamos traçando um caminho de (re)evolução econômica, política e social no
 
 **Louize Pereira Oliveira**, advogada, fundadora da SafePlace Brasil.
 
-Artigo retirado do blog da Revista HSM Management. Confira na íntegra através do site: https://www.revistahsm.com.br/post/assedio-moral-e-sexual-no-trabalho-como-evita-los-na-sua-empresa
+Artigo retirado do blog da Revista HSM Management. Acesse em: https://www.revistahsm.com.br/post/assedio-moral-e-sexual-no-trabalho-como-evita-los-na-sua-empresa
