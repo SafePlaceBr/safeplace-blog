@@ -64,4 +64,4 @@ Geraldo Vandré, música “Pra não dizer que não falei das flores”, de 1968
 
 Neivia Justa, criadora do movimento #OndeEstãoAsMulheres e #AquiEstãoAsMulheres
 
-Artigo retirado do blog da Revista HSM Management. Confira na íntegra através do site: https://www.revistahsm.com.br/post/faca-nao-espere-acontecer
+Artigo retirado do blog da Revista HSM Management. Acesse em: https://www.revistahsm.com.br/post/faca-nao-espere-acontecer
