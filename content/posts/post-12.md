@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'Violência contra a mulher na quarentena: dados e ações de empresas'
 status: Published
-date: '2018-05-25'
+date: 2020-11-19T03:00:00.000Z
 featuredImage: 'https://ucarecdn.com/e1e7c9cb-62da-4155-89aa-edfb92a40d84/'
 excerpt: >
   Confira o cenário da violência contra a mulher no Brasil e como ele é agravado
