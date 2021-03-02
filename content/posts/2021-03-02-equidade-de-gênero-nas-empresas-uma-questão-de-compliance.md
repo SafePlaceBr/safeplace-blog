@@ -8,6 +8,8 @@ excerpt: >-
   A área de compliance assume um papel importante no combate às desigualdades de
   gênero nas empresas, e isso não é um debate ideológico: é uma questão de
   eficiência organizacional e gerenciamento de risco.
+categories:
+  - category: Novas
 ---
 5.600 mulheres que atuavam como representantes de vendas processaram a farmacêutica Novartis nos Estados Unidos em 2010. Elas alegaram que suas carreiras estavam estagnadas nos degraus inferiores da hierarquia da empresa em função de um “clube de homens (...), cujos funcionários do sexo masculino cuidavam uns dos outros às custas das mulheres”.
 
