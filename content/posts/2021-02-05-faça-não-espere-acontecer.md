@@ -5,8 +5,7 @@ status: Published
 date: 2020-11-28T15:17:52.142Z
 featuredImage: 'https://ucarecdn.com/93a15ff1-3827-4dcd-bf87-4a28a0e254db/'
 excerpt: O mundo é desigual e você não está no centro dele
-categories:
-  - category: Novas
+categories: []
 ---
 Você não tem culpa por seus privilégios ou pela falta deles.
 
