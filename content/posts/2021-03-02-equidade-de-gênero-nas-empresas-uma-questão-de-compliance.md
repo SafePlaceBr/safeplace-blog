@@ -4,13 +4,12 @@ title: 'Equidade de gênero nas empresas, uma questão de compliance'
 status: Published
 date: 2021-03-02T20:21:14.056Z
 featuredImage: 'https://ucarecdn.com/68919c05-21a8-482d-ba28-088a81d3ceb2/'
-excerpt: >-
-  A área de compliance assume um papel importante no combate às desigualdades de
-  gênero nas empresas, e isso não é um debate ideológico: é uma questão de
-  eficiência organizacional e gerenciamento de risco.
+excerpt: ''
 categories:
   - category: Novas
 ---
+A área de compliance assume um papel importante no combate às desigualdades de gênero nas empresas, e isso não é um debate ideológico: é uma questão de eficiência organizacional e gerenciamento de risco.\
+\
 5.600 mulheres que atuavam como representantes de vendas processaram a farmacêutica Novartis nos Estados Unidos em 2010. Elas alegaram que suas carreiras estavam estagnadas nos degraus inferiores da hierarquia da empresa em função de um “clube de homens (...), cujos funcionários do sexo masculino cuidavam uns dos outros às custas das mulheres”.
 
 Elas também argumentaram que foram mais excluídas do que os homens em um importante programa de treinamento. Na época, a Novartis fez um acordo de 175 milhões de dólares depois de perder um processo no tribunal do júri. Anos depois, em 2017, a Fox fez um acordo de 20 milhões de dólares para resolver o caso de assédio contra a apresentadora de TV Gretchen Carlson. Ao que consta, ocorrências similares na Fox deram origem a pelo menos sete acordos de quantias vultosas, sendo alguns voltados à empresa e outros contra funcionários.
