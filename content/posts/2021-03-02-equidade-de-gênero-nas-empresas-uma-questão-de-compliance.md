@@ -5,8 +5,7 @@ status: Published
 date: 2021-03-02T20:21:14.056Z
 featuredImage: 'https://ucarecdn.com/68919c05-21a8-482d-ba28-088a81d3ceb2/'
 excerpt: ''
-categories:
-  - category: Novas
+categories: []
 ---
 A área de compliance assume um papel importante no combate às desigualdades de gênero nas empresas, e isso não é um debate ideológico: é uma questão de eficiência organizacional e gerenciamento de risco.\
 \
