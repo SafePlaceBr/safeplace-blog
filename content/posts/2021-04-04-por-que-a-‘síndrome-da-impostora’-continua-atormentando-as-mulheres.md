@@ -7,6 +7,8 @@ featuredImage: 'https://ucarecdn.com/7dc3cd1d-10d3-400e-9a17-601a55f72139/'
 excerpt: >-
   Trata-se, por um lado, da falta de autoestima e confiança para assumir funções
   tradicionalmente masculinas. Também o excesso de pressão e carga de trabalho.
+categories:
+  - category: Novas
 ---
 “Às vezes desperto pela manhã antes de ir para uma filmagem e acho que não posso fazer isto, que sou uma fraude”, dizia de si mesma a atriz Kate Winslet. Não é a única mulher conhecida que se sentiu assim no transcorrer de sua profissão. A cantora Jennifer López declarou que "apesar de ter vendido 70 milhões de discos, eu sinto que não sou boa nisto". Já Sheryl Sandberg, diretora de operações do Facebook, explicava que “ainda há dias em que acordo com a sensação de ser uma fraude; não estou certa de que deva estar onde estou”.
 
