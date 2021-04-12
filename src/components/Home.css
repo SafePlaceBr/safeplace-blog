@@ -30,6 +30,13 @@
   font-family: var(--font-primary)
 }
 
+.socialIcons{
+  margin-top: 10px;
+}
+.socialIcon{
+  padding: 10px;
+}
+
 @media (max-width: 800px) {
   .home{
     padding: 2rem;
