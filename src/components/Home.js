@@ -26,7 +26,7 @@ const Home = () => (
         <Linkedin />
       </a>
       <a
-        href="https://instagram.com/safeplace_brasil?igshid=1a5l7sr77ft3w"
+        href="https://instagram.com/safeplace.brasil/"
         target="_blank"
         rel="noopener noreferrer"
         className="socialIcon"
