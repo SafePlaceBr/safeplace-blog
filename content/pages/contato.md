@@ -6,7 +6,7 @@ featuredImage: 'https://ucarecdn.com/c4fe306f-5f96-446d-89fd-9508345dd027/'
 subtitle: \_\_\_\_\_\_\_\_\_\__
 address: ''
 phone: ''
-email: safeplacebr@gmail.com
+email: safeplace@besafeplace.org
 locations: []
 meta:
   description: ''
