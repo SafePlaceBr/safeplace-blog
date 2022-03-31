@@ -1,0 +1,6 @@
+.button-pesquisa{
+  padding: 1rem 1.5rem;
+  background-color: var(--primary);
+  color: white;
+  text-decoration: none;
+}

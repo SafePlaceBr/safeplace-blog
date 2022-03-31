@@ -5,6 +5,7 @@ import './cms-utils'
 import { HomePageTemplate } from '../templates/HomePage'
 import { SobrePageTemplate } from '../templates/SobrePage'
 import { ContatoPageTemplate } from '../templates/ContatoPage'
+import { PesquisaPageTemplate } from '../templates/PesquisaPage'
 import { DefaultPageTemplate } from '../templates/DefaultPage'
 import { BlogIndexTemplate } from '../templates/BlogIndex'
 import { SinglePostTemplate } from '../templates/SinglePost'
@@ -31,6 +32,9 @@ CMS.registerPreviewTemplate('sobre-page', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('contato-page', ({ entry }) => (
   <ContatoPageTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('pesquisa-page', ({ entry }) => (
+  <PesquisaPageTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('infoPages', ({ entry }) => (
   <DefaultPageTemplate {...entry.toJS().data} />
