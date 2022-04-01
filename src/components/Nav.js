@@ -26,9 +26,8 @@ export class Navigation extends Component {
       NavLink = ({ to, className, children, ...props }) => (
         <Link
           to={to}
-          className={`NavLink ${
-            to === this.state.currentPath ? 'active' : ''
-          } ${className}`}
+          className={`NavLink ${to === this.state.currentPath ? 'active' : ''
+            } ${className}`}
           onClick={this.handleLinkClick}
           {...props}
         >
@@ -47,6 +46,7 @@ export class Navigation extends Component {
             <NavLink to="/sobre/">Sobre</NavLink>
             <NavLink to="/blog/">Blog</NavLink>
             <NavLink to="/contato/">Contato</NavLink>
+            <NavLink to="/pesquisa/">Pesquisa</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
