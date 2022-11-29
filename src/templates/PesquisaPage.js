@@ -28,7 +28,7 @@ export const PesquisaPageTemplate = ({
           <Content source={body} />
         </div>
         <div>
-          <a className="button-pesquisa" href="https://pesquisa.besafeplace.org/" target="_blank" rel="noopener noreferrer">Acesse a pesquisa</a>
+          <a className="button-pesquisa" href="https://docs.google.com/forms/d/e/1FAIpQLSfhtSK-hlFhyZ8qRQHS3tXZruUCE9WM0zt5CoNz5qQUqlSSAw/viewform?embedded=true" target="_blank" rel="noopener noreferrer">Acesse a pesquisa</a>
         </div>
       </div>
     </section>
