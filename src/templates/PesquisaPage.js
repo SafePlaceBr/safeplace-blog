@@ -31,6 +31,16 @@ export const PesquisaPageTemplate = ({
           <a className="button-pesquisa" href="https://docs.google.com/forms/d/e/1FAIpQLSfhtSK-hlFhyZ8qRQHS3tXZruUCE9WM0zt5CoNz5qQUqlSSAw/viewform?embedded=true" target="_blank" rel="noopener noreferrer">Acesse a pesquisa</a>
         </div>
       </div>
+      <div className="container Contact--Section1--Container apoio">
+        <div>
+          Realização:
+          <p>Safeplace</p>
+        </div>
+        <div>
+          Apoiadores:
+          <p>Hub Mulher; Mulheres Conectadas</p>
+        </div>
+      </div>
     </section>
   </main>
 )
