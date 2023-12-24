@@ -28,7 +28,8 @@ export const PesquisaPageTemplate = ({
           <Content source={body} />
         </div>
         <div>
-          <a className="button-pesquisa" href="https://docs.google.com/forms/d/e/1FAIpQLSfhtSK-hlFhyZ8qRQHS3tXZruUCE9WM0zt5CoNz5qQUqlSSAw/viewform?embedded=true" target="_blank" rel="noopener noreferrer">Acesse a pesquisa</a>
+          <div className="button-space"><a className="button-pesquisa" href="https://docs.google.com/forms/d/e/1FAIpQLSfhtSK-hlFhyZ8qRQHS3tXZruUCE9WM0zt5CoNz5qQUqlSSAw/viewform?embedded=true" target="_blank" rel="noopener noreferrer">Responda a nossa pesquisa</a></div>
+          <div className="button-space"><a className="button-pesquisa" href="/2023-safeplace-assedio-no-trabalho.pdf" target="_blank" >Resultados da pesquisa - 2023</a></div>
         </div>
       </div>
       <div className="container Contact--Section1--Container apoio">
